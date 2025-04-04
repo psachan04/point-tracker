@@ -1,0 +1,25 @@
+# Point Tracker
+
+This is a point tracking system for our technology fraternity. Pledges submit points for attending events (like blockchain meetings, philanthropy, etc.), and admins approve them.
+
+## Features
+
+- 🔒 Firebase Authentication
+- 📝 Submit and review activity points
+- ✅ Admin approval dashboard
+- 📊 Points history per pledge
+- 🌐 Modern React UI with Tailwind
+
+## Stack
+
+- React + Tailwind
+- Firebase Auth + Firestore
+- (Optional) Express.js backend
+
+## Setup
+
+```bash
+git clone https://github.com/yourusername/point-tracker.git
+cd point-tracker/client
+npm install
+npm start
